@@ -11,23 +11,20 @@
     "dependencies": {
         "@emotion/react": "^11.11.1",
         "@emotion/styled": "^11.11.0",
+        "@mlc-ai/web-llm": "^0.2.8",
         "@mui/icons-material": "^5.14.13",
         "@mui/material": "^5.14.13",
         "lodash": "^4.17.21",
         "next": "13.5.4",
         "notistack": "^3.0.1",
         "react": "^18",
-        "react-copy-to-clipboard": "^5.1.0",
-        "react-dom": "^18",
-        "react-dropzone": "^14.2.3",
-        "xlsx": "^0.18.5"
+        "react-dom": "^18"
     },
     "devDependencies": {
         "@types/lodash": "^4.14.199",
         "@types/node": "^20",
         "@types/papaparse": "^5.3.9",
         "@types/react": "^18",
-        "@types/react-copy-to-clipboard": "^5.0.5",
         "@types/react-dom": "^18",
         "eslint": "^8",
         "eslint-config-next": "13.5.4",

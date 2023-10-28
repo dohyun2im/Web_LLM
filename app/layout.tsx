@@ -6,8 +6,7 @@ import Favicon from "/public/favicon.ico";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Convert Excel to String",
-    keywords: ["convert", "excel", "excel to json", "excel to string", "convert excel to json"],
+    title: "Web large language model",
     icons: [{ rel: "icon", url: Favicon.src }],
 };
 
